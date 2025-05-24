@@ -1,0 +1,751 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "observeradmin@gmail.com",
+      "password": "@Ebf100469"
+    }
+  ],
+  "clients": [
+    {
+      "id": "c619",
+      "name": "João Firmino Gonçalves",
+      "document": "101.947.848-99",
+      "email": "firminogon@gmail.com",
+      "phone": "(11) 99290-1087",
+      "vehicle": "Chevrolet Corsa",
+      "pay_day": "10"
+    },
+    {
+      "id": "41a0",
+      "name": "Maria da Conceição Prado",
+      "document": "(11) 97387-1437",
+      "email": "mariaceica@outlokk.com",
+      "phone": "(11) 91432-4799",
+      "vehicle": "Jeep Renegade",
+      "pay_day": "15"
+    },
+    {
+      "id": "4125",
+      "name": "Rubens Pereira Fonseca",
+      "document": "147.772.801-14",
+      "email": "rubensmanutencao@terra.com.br",
+      "phone": "(11) 93712-1243",
+      "vehicle": "Fiat Strada",
+      "pay_day": "5"
+    },
+    {
+      "id": "60fd",
+      "name": "Paulo Gileno Ribeiro",
+      "document": "977.127.864-16",
+      "email": "paulogileno12@gmail.com",
+      "phone": "(11) 97387-1019",
+      "vehicle": "Toyota Corolla",
+      "pay_day": "20"
+    },
+    {
+      "id": "c940",
+      "name": "Sõnia Francine Oliveira",
+      "document": "772.901.348-27",
+      "email": "soniafrancine43@gmail.com",
+      "phone": "(11) 93032-4052",
+      "vehicle": "Chevrolet Cruiser",
+      "pay_day": "12"
+    },
+    {
+      "id": "1d06",
+      "name": "Daniel Ladeira Santos",
+      "document": "124.225.348-16",
+      "email": "danielladeira@icloud.com",
+      "phone": "(11) 94799-0443",
+      "vehicle": "Volkswagem Pólo",
+      "pay_day": "16"
+    },
+    {
+      "id": "34b8",
+      "name": "Miguel Santana Lopes",
+      "document": "163.922.704-34",
+      "email": "miguelcorretor@ig.com.br",
+      "phone": "(11) 91431-9293",
+      "vehicle": "Fiat Strada",
+      "pay_day": "25"
+    },
+    {
+      "id": "727a",
+      "name": "Anelina Andrade Gusmão",
+      "document": "773.640.342-27",
+      "email": "linaandrade@gmail.com",
+      "phone": "(11) 97387-6632",
+      "vehicle": "Hyundai Creta",
+      "pay_day": "15"
+    },
+    {
+      "id": "a205",
+      "name": "Adilson Delfino Ribeiro",
+      "document": "323.107.171-12",
+      "email": "adilsondelfino32@outlook.com",
+      "phone": "(11) 95562-2168",
+      "vehicle": "Chery Tiggo 8",
+      "pay_day": "10"
+    },
+    {
+      "id": "585e",
+      "name": "Marcos Roberto de Souza",
+      "document": "484.773.560-32",
+      "email": "mpereirasouza@gmail.com",
+      "phone": "(11) 92597-1373",
+      "vehicle": "Kia Cerato",
+      "pay_day": "15"
+    },
+    {
+      "id": "cc19",
+      "name": "Flávio Gonçalves Borgatto",
+      "document": "210.934.184-19",
+      "email": "flavioborgatto@gmail.com",
+      "phone": "(11) 93203-0782",
+      "vehicle": "Chevrolet Ônix",
+      "pay_day": "12"
+    },
+    {
+      "id": "4da0",
+      "name": "Marcos da Conceição Salgado",
+      "document": "(11) 92387-4232",
+      "email": "msalgado99@gmail.com",
+      "phone": "(11) 98437-2479",
+      "vehicle": "Hyundai HB20",
+      "pay_day": "25"
+    },
+    {
+      "id": "4e325",
+      "name": "Reginaldo Paganeli",
+      "document": "937.372.180-13",
+      "email": "paganelieventos@ig.com.br",
+      "phone": "(11) 95371-3243",
+      "vehicle": "Volkswagen T-Cross",
+      "pay_day": "10"
+    },
+    {
+      "id": "6ffd",
+      "name": "Priscila Bezerra dos Santos",
+      "document": "177.737.816-14",
+      "email": "pribezerra@gmail.com",
+      "phone": "(11) 99637-4089",
+      "vehicle": "Chevrolet Tracker",
+      "pay_day": "10"
+    },
+    {
+      "id": "cg40",
+      "name": "Sofia Ferreira dos Santos Garcia",
+      "document": "902.190.148-17",
+      "email": "soniafrancine43@gmail.com",
+      "phone": "(11) 97537-8052",
+      "vehicle": "Fiat Mobi",
+      "pay_day": "15"
+    },
+    {
+      "id": "1j06",
+      "name": "Marconi Sanchez da Silveira",
+      "document": "433.822.934-12",
+      "email": "sanchezcontador@gmail.com",
+      "phone": "(11) 94939-9094",
+      "vehicle": "Nissan Kicks",
+      "pay_day": "20"
+    },
+    {
+      "id": "3kb8",
+      "name": "Renan Colutide Menezes",
+      "document": "373.8992.113-54",
+      "email": "renancolutti@outlook.com.br",
+      "phone": "(11) 95541-6692",
+      "vehicle": "Fiat Toro",
+      "pay_day": "15"
+    },
+    {
+      "id": "7h7a",
+      "name": "Saulo Ferreira Santos Alcalaz",
+      "document": "273.964.234-31",
+      "email": "sauloalcalazgmail.com",
+      "phone": "(11) 99662-4763",
+      "vehicle": "Hyundai HB20",
+      "pay_day": "10"
+    },
+    {
+      "id": "aq05",
+      "name": "Adelino Silva Ferreira",
+      "document": "723.510.317-10",
+      "email": "adelinof1974@gmail.com",
+      "phone": "(11) 99856-4211",
+      "vehicle": "Chery Tiggo 8",
+      "pay_day": "20"
+    },
+    {
+      "id": "5r5e",
+      "name": "Fábio Bertelli Arruda Mattos",
+      "document": "232.913.125-11",
+      "email": "fabiobertelli@ghotmail.com",
+      "phone": "(11) 95327-9133",
+      "vehicle": "Honda Civic",
+      "pay_day": "10"
+    },
+    {
+      "id": "6a4a",
+      "name": "João Pereira Macedo",
+      "document": "227.142.203-17",
+      "email": "pereiramacedo@terra.com.br",
+      "phone": "(11) 99395-2055",
+      "vehicle": "Nissan Versa",
+      "pay_day": "14"
+    },
+    {
+      "id": "3971",
+      "name": "Maria de Soeza Fortunato",
+      "document": "123.498.227-29",
+      "email": "mfortunato@outlook.com",
+      "phone": "(11) 94799-2216",
+      "vehicle": "Ford Fox",
+      "pay_day": "12"
+    },
+    {
+      "id": "1bd9",
+      "name": "Maria José Azevedo",
+      "document": "394.872.114-16",
+      "email": "mjdecoracoes@gmail.com",
+      "phone": "11 - 99664-3505",
+      "vehicle": "Renault Sandero",
+      "pay_day": "12"
+    },
+    {
+      "id": "0124",
+      "name": "Elza Eleotero",
+      "document": "07597044810",
+      "email": "elzaeleotero@gmail.com",
+      "phone": "1147990463",
+      "vehicle": "TIQ3E10",
+      "pay_day": "10"
+    }
+  ],
+  "finance": [
+    {
+      "id": "a9af",
+      "name": "Paulo Gileno Ribeiro",
+      "board": "DVT - 1016",
+      "payDate": "2025-05-16",
+      "payAmount": "140.00"
+    },
+    {
+      "id": "ca6a",
+      "name": "Anelina Andrade Gusmão",
+      "board": "DXA - 4486",
+      "payDate": "2025-05-17",
+      "payAmount": "150.00"
+    },
+    {
+      "id": "a7af",
+      "name": "Adilson Delfino Ribeiro",
+      "board": "VTG - 5118",
+      "payDate": "2025-05-16",
+      "payAmount": "150.00"
+    },
+    {
+      "id": "dca6",
+      "name": "Marcelo Oliveira Pedrosa",
+      "board": "DXA - 4876",
+      "payDate": "2025-05-18",
+      "payAmount": "150.00"
+    },
+    {
+      "id": "ta9a",
+      "name": "Ana Paula Araújo Morgado",
+      "board": "TDI - 9773",
+      "payDate": "2025-05-10",
+      "payAmount": "150.00"
+    },
+    {
+      "id": "ce6a",
+      "name": "André Farias de Meneses",
+      "board": "JTO - 1344",
+      "payDate": "2025-05-05",
+      "payAmount": "150.00"
+    },
+    {
+      "id": "a5af",
+      "name": "Jonatas Prates Nascimento",
+      "board": "ORM - 8757",
+      "payDate": "2025-05-03",
+      "payAmount": "150.00"
+    },
+    {
+      "id": "c76a",
+      "name": "Rubens Alves Batista",
+      "board": "EPA - 6246",
+      "payDate": "2025-05-02",
+      "payAmount": "150.00"
+    },
+    {
+      "id": "ataf",
+      "name": "Fábio Bertelli de Mattos",
+      "board": "JPA - 9801",
+      "payDate": "2025-05-05",
+      "payAmount": "150.00"
+    },
+    {
+      "id": "gca6a",
+      "name": "Márcio Bonatti Florentino",
+      "board": "ETA - 2956",
+      "payDate": "2025-05-06",
+      "payAmount": "150.00"
+    },
+    {
+      "id": "za7af",
+      "name": "Adriano Leandro Montalvão",
+      "board": "TGV - 2358",
+      "payDate": "2025-05-07",
+      "payAmount": "150.00"
+    },
+    {
+      "id": "wdca6",
+      "name": "Catharina Estevão Mesquita",
+      "board": "AJC - 3384",
+      "payDate": "2025-05-08",
+      "payAmount": "150.00"
+    },
+    {
+      "id": "tta9a",
+      "name": "Paula Fernandez Araújo Costa",
+      "board": "DXG - 5697",
+      "payDate": "2025-05-10",
+      "payAmount": "150.00"
+    },
+    {
+      "id": "gce6a",
+      "name": "Paulo André Martinelli",
+      "board": "WKA - 4432",
+      "payDate": "2025-05-10",
+      "payAmount": "150.00"
+    },
+    {
+      "id": "ag5af",
+      "name": "Soraya Dias de Souza",
+      "board": "RDM - 9957",
+      "payDate": "2025-05-03",
+      "payAmount": "150.00"
+    },
+    {
+      "id": "yc76a",
+      "name": "Mônica Batista Reis",
+      "board": "PDA - 4456",
+      "payDate": "2025-05-11",
+      "payAmount": "150.00"
+    },
+    {
+      "id": "b99d",
+      "name": "Paulo Gileno Ribeiro",
+      "board": "DVT - 1016",
+      "payDate": "2025-05-17",
+      "payAmount": "150.00"
+    },
+    {
+      "id": "0e44",
+      "name": "Maria de Souza Fortunato",
+      "board": "BDG - 3031",
+      "payDate": "2025-05-17",
+      "payAmount": "150.00"
+    },
+    {
+      "id": "f515",
+      "name": "Maria José Azevedo",
+      "board": "DTX - 1480",
+      "payDate": "2025-05-17",
+      "payAmount": "150.00"
+    }
+  ],
+  "log": [
+    {
+      "id": "a9af",
+      "name": "Paulo Gileno Ribeiro",
+      "board": "DVT - 1016",
+      "entrance": "2025-05-05 08:00",
+      "exit": "2025-05-05 17:20"
+    },
+    {
+      "id": "v9af",
+      "name": "Paulo Gileno Ribeiro",
+      "board": "DVT - 1016",
+      "entrance": "2025-05-06 08:11",
+      "exit": "2025-05-06 17:42"
+    },
+    {
+      "id": "59afs",
+      "name": "Paulo Gileno Ribeiro",
+      "board": "DVT - 1016",
+      "entrance": "2025-05-07 07:51",
+      "exit": "2025-05-07 16:42"
+    },
+    {
+      "id": "a98f",
+      "name": "Paulo Gileno Ribeiro",
+      "board": "DVT - 1016",
+      "entrance": "2025-05-08 9:23",
+      "exit": "2025-05-08 16:59"
+    },
+    {
+      "id": "v9a56f",
+      "name": "Paulo Gileno Ribeiro",
+      "board": "DVT - 1016",
+      "entrance": "2025-05-09 08:11",
+      "exit": "2025-05-09 17:42"
+    },
+    {
+      "id": "59af",
+      "name": "Paulo Gileno Ribeiro",
+      "board": "DVT - 1016",
+      "entrance": "2025-05-10 07:51",
+      "exit": "2025-05-10 16:42"
+    },
+    {
+      "id": "Za9af",
+      "name": "Paulo Gileno Ribeiro",
+      "board": "DVT - 1016",
+      "entrance": "2025-05-12 07:40",
+      "exit": "2025-05-12 17:50"
+    },
+    {
+      "id": "v9Caf",
+      "name": "Paulo Gileno Ribeiro",
+      "board": "DVT - 1016",
+      "entrance": "2025-05-13 10:21",
+      "exit": "2025-05-13 20:14"
+    },
+    {
+      "id": "59aGfs",
+      "name": "Paulo Gileno Ribeiro",
+      "board": "DVT - 1016",
+      "entrance": "2025-05-14 06:51",
+      "exit": "2025-05-14 16:52"
+    },
+    {
+      "id": "a9S8f",
+      "name": "Paulo Gileno Ribeiro",
+      "board": "DVT - 1016",
+      "entrance": "2025-05-15 9:03",
+      "exit": "2025-05-15 18:01"
+    },
+    {
+      "id": "v9Sa56f",
+      "name": "Paulo Gileno Ribeiro",
+      "board": "DVT - 1016",
+      "entrance": "2025-05-16 08:17",
+      "exit": "2025-05-16 15:42"
+    }
+  ],
+  "events": [
+    {
+      "id": "f11a",
+      "vehicle": "Fiat Toro",
+      "board": "KGH - 8678",
+      "payday": "7",
+      "status": "Adimplente"
+    },
+    {
+      "id": "0a50",
+      "vehicle": "Chevrolet Onix",
+      "board": "RJO - 2737",
+      "payday": "23",
+      "status": "Franqueado"
+    },
+    {
+      "id": "0dca",
+      "vehicle": "Jeep Commander",
+      "board": "IHA - 4465",
+      "payday": "14",
+      "status": "Não Cadastrado"
+    },
+    {
+      "id": "d788",
+      "vehicle": "Mitsubishi Pajero",
+      "board": "ZQV - 6947",
+      "payday": "26",
+      "status": "Não Cadastrado"
+    },
+    {
+      "id": "172a",
+      "vehicle": "Chevrolet Onix",
+      "board": "FET - 8530",
+      "payday": "9",
+      "status": "Não Cadastrado"
+    },
+    {
+      "id": "d99b",
+      "vehicle": "Fiat Strada",
+      "board": "QVX - 5145",
+      "payday": "25",
+      "status": "Adimplente"
+    },
+    {
+      "id": "8f5e",
+      "vehicle": "Nissan Versa",
+      "board": "IRX - 8282",
+      "payday": "1",
+      "status": "Inadimplente"
+    },
+    {
+      "id": "e0b8",
+      "vehicle": "Fiat Strada",
+      "board": "ENT - 2665",
+      "payday": "21",
+      "status": "Inadimplente"
+    },
+    {
+      "id": "210e",
+      "vehicle": "Jeep Commander",
+      "board": "ZVW - 1055",
+      "payday": "24",
+      "status": "Adimplente"
+    },
+    {
+      "id": "1077",
+      "vehicle": "Mitsubishi Pajero",
+      "board": "SHE - 9915",
+      "payday": "15",
+      "status": "Inadimplente"
+    },
+    {
+      "id": "897d",
+      "vehicle": "Honda Civic",
+      "board": "TZT - 8293",
+      "payday": "18",
+      "status": "Não Cadastrado"
+    },
+    {
+      "id": "cc89",
+      "vehicle": "Hyundai HB-20",
+      "board": "QPH - 4006",
+      "payday": "1",
+      "status": "Adimplente"
+    },
+    {
+      "id": "9efb",
+      "vehicle": "Honda Civic",
+      "board": "CXM - 2762",
+      "payday": "21",
+      "status": "Franqueado"
+    },
+    {
+      "id": "73ea",
+      "vehicle": "Honda HRV",
+      "board": "TBU - 1841",
+      "payday": "18",
+      "status": "Inadimplente"
+    },
+    {
+      "id": "a492",
+      "vehicle": "Toyota Corolla",
+      "board": "YIY - 4913",
+      "payday": "15",
+      "status": "Adimplente"
+    },
+    {
+      "id": "ca34",
+      "vehicle": "Honda HRV",
+      "board": "LPY - 9309",
+      "payday": "19",
+      "status": "Não Cadastrado"
+    },
+    {
+      "id": "9a76",
+      "vehicle": "Mitsubishi Pajero",
+      "board": "GCN - 3283",
+      "payday": "4",
+      "status": "Franqueado"
+    },
+    {
+      "id": "ec8f",
+      "vehicle": "Honda Civic",
+      "board": "ABO - 6995",
+      "payday": "23",
+      "status": "Inadimplente"
+    },
+    {
+      "id": "052d",
+      "vehicle": "Renault Sandero",
+      "board": "EKO - 1185",
+      "payday": "13",
+      "status": "Adimplente"
+    },
+    {
+      "id": "9762",
+      "vehicle": "Fiat Strada",
+      "board": "WQY - 6708",
+      "payday": "3",
+      "status": "Inadimplente"
+    },
+    {
+      "id": "2271",
+      "vehicle": "Ford Focus",
+      "board": "RYW - 3132",
+      "payday": "6",
+      "status": "Franqueado"
+    },
+    {
+      "id": "ca59",
+      "vehicle": "Honda HRV",
+      "board": "CUQ - 7551",
+      "payday": "28",
+      "status": "Adimplente"
+    },
+    {
+      "id": "7f55",
+      "vehicle": "Renault Sandero",
+      "board": "TJZ - 7727",
+      "payday": "13",
+      "status": "Inadimplente"
+    },
+    {
+      "id": "18af",
+      "vehicle": "Chevrolet Onix",
+      "board": "JRI - 7654",
+      "payday": "3",
+      "status": "Inadimplente"
+    },
+    {
+      "id": "5f2a",
+      "vehicle": "Fiat Strada",
+      "board": "WWY - 3441",
+      "payday": "11",
+      "status": "Não Cadastrado"
+    },
+    {
+      "id": "251d",
+      "vehicle": "Honda HRV",
+      "board": "OVJ - 3334",
+      "payday": "9",
+      "status": "Franqueado"
+    },
+    {
+      "id": "8e22",
+      "vehicle": "Volkswagen Polo",
+      "board": "MPD - 5346",
+      "payday": "4",
+      "status": "Inadimplente"
+    },
+    {
+      "id": "ed0f",
+      "vehicle": "Hyundai HB-20",
+      "board": "FVK - 6265",
+      "payday": "23",
+      "status": "Franqueado"
+    },
+    {
+      "id": "f31c",
+      "vehicle": "Chevrolet Onix",
+      "board": "SEI - 7071",
+      "payday": "4",
+      "status": "Franqueado"
+    },
+    {
+      "id": "6258",
+      "vehicle": "Honda HRV",
+      "board": "XCV - 3659",
+      "payday": "4",
+      "status": "Inadimplente"
+    },
+    {
+      "id": "6b8f",
+      "vehicle": "Fiat Toro",
+      "board": "OQO - 2556",
+      "payday": "10",
+      "status": "Franqueado"
+    },
+    {
+      "id": "fe92",
+      "vehicle": "Toyota Corolla",
+      "board": "WQX - 2148",
+      "payday": "1",
+      "status": "Não Cadastrado"
+    },
+    {
+      "id": "f47b",
+      "vehicle": "Honda Civic",
+      "board": "GER - 9095",
+      "payday": "9",
+      "status": "Franqueado"
+    },
+    {
+      "id": "0c3e",
+      "vehicle": "Mitsubishi Pajero",
+      "board": "UGS - 3547",
+      "payday": "14",
+      "status": "Não Cadastrado"
+    },
+    {
+      "id": "faa7",
+      "vehicle": "Honda Civic",
+      "board": "QTA - 8472",
+      "payday": "27",
+      "status": "Inadimplente"
+    },
+    {
+      "id": "3590",
+      "vehicle": "Honda HRV",
+      "board": "FCR - 7382",
+      "payday": "18",
+      "status": "Adimplente"
+    },
+    {
+      "id": "798d",
+      "vehicle": "Fiat Strada",
+      "board": "EGN - 8067",
+      "payday": "8",
+      "status": "Franqueado"
+    },
+    {
+      "id": "348d",
+      "vehicle": "Jeep Commander",
+      "board": "AVI - 6530",
+      "payday": "21",
+      "status": "Inadimplente"
+    },
+    {
+      "id": "86a2",
+      "vehicle": "Fiat Toro",
+      "board": "UUW - 5649",
+      "payday": "11",
+      "status": "Franqueado"
+    },
+    {
+      "id": "51a0",
+      "vehicle": "Chevrolet Onix",
+      "board": "OVX - 8158",
+      "payday": "13",
+      "status": "Inadimplente"
+    },
+    {
+      "id": "daa5",
+      "vehicle": "Mitsubishi Pajero",
+      "board": "CVU - 4551",
+      "payday": "11",
+      "status": "Franqueado"
+    },
+    {
+      "id": "fb29",
+      "vehicle": "Jeep Commander",
+      "board": "HVT - 4120",
+      "payday": "27",
+      "status": "Não Cadastrado"
+    },
+    {
+      "id": "e2c1",
+      "vehicle": "Fiat Strada",
+      "board": "KUH - 1876",
+      "payday": "27",
+      "status": "Inadimplente"
+    },
+    {
+      "id": "9129",
+      "vehicle": "Ford Focus",
+      "board": "MMF - 2691",
+      "payday": "5",
+      "status": "Franqueado"
+    }
+  ]
+}
